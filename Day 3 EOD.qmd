@@ -1,0 +1,28 @@
+---
+title: "EDS 212 Day 3 EOD Tasks"
+author: "Eva Newby"
+format: html
+editor: visual
+---
+
+## Create and store 2 new vectors ----
+
+```{r}
+vec_a <- c(1L, 6L)
+
+vec_b <- c(2L, 4L)
+
+# return it ----
+vec_a
+vec_b
+
+# run it ----
+vec_a + vec_b
+
+vec_b - vec_a
+
+2*vec_a
+
+vec_a %*% vec_b
+```
+
